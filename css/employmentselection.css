@@ -1,0 +1,16 @@
+body {
+	background-color: white
+}
+.selection {
+	height: 25vw;width: 100%;
+	position: relative;margin: auto;
+	margin-top: 4vw;
+	margin-bottom: 4vw;
+}
+
+.col-lg-4 {
+	height: 6vw;
+	position: relative;
+	padding-left: 0vw
+}
+

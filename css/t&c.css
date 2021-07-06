@@ -1,0 +1,70 @@
+.blueDiv {
+	position: relative;
+	margin-top: 3vw;
+	height: 9vw;
+	width: 100%;
+	background-color: #2d03b2;
+	margin-bottom: 3vw;
+	padding-top: 1.5vw;
+}
+
+.legaltermsfont {
+	position: relative;
+	text-align: center;
+	font-size: 1.7vw;
+	color: white;
+	margin-bottom: .5vw;
+	font-weight: bold;
+}
+
+.lapangeatradingfont {
+	position: relative;
+	text-align: center;
+	font-size: 1.45vw;
+	color: #c4c4c6;
+	font-weight: bold;
+}
+
+.termsdiv {
+	position: relative;
+	margin-top: 3vw;
+	height: auto;
+	width: 100%;
+	margin-bottom: 3vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
+}
+
+.termsofusefont {
+	position: relative;
+	font-size: 1.6vw;
+	color: black;
+	margin-bottom: .5vw;
+	font-weight: bold;
+}
+
+.mainfont {
+	position: relative;
+	font-size: 1.1vw;
+	color: black;
+	margin-bottom: 2vw;
+}
+.updatedfont {
+	position: relative;
+	font-size: 1.1vw;
+	color: black;
+	margin-bottom: 1vw;
+}
+
+.pdfversionlink {
+	font-size: 1vw;
+	color: black;
+	font-weight: bold;
+}
+
+
+
+
+
+
+

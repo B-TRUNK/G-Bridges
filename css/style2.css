@@ -1,0 +1,155 @@
+
+body {
+    margin: 0px;
+    background-color: white;
+
+}
+
+.mshipdiv {
+    height:600px;
+    width:600px;
+    margin-top:2.5%;
+    background-color: #fafafa;
+    -webkit-box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+}
+
+.smupperdiv {
+    position: relative;
+    width: 100%;
+    height: 10%;
+    border-bottom: 1.5px solid #223c88;
+}
+
+.smupperdiv p{
+    color: black;
+    line-height:60px;
+    font-size:30px;
+    float: left;
+    font-weight: bold;
+    margin-left: 8px;
+}
+.sminnerupper {
+    position: relative;
+    width: 85%;
+    height: 30px;
+    margin-top: 5%;
+    margin-left: -4%;
+    color:black;
+}
+
+.regradiobtnsfont {
+    font-size:14px;float:left;margin-left:5px;font-weight:bold;margin-top: 2.5px;
+}
+.regradiobtns {
+    float:left;margin-left:30px;margin-top: 5px;
+    
+}
+
+.membershipform {
+    position: relative;
+    height:430px;
+    width:550px;
+    margin-top: 20px;
+    float: left;
+    margin-left: -30px;
+}
+
+.twoupperfields {
+    width: 38%;
+    height: 55px;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.mformstyle {
+    position: relative;
+    width:200px;
+    height:25px;
+    font-size: 10px;
+    float: left;    
+    margin-bottom: 5px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.mthirdrow {
+    position: relative;
+    top: 60px;
+    height: 25px;
+    width: 100%;
+}
+.mfourthrow {
+    position: relative;
+    top: 65px;
+    height: 25px;
+    width: 100%;
+}
+.mfifthrow {
+    position: relative;
+    top: 70px;
+    height: 25px;
+    width: 100%;
+}
+.mfifthrowstyle {
+    position: relative;
+    top: 0px;
+    width:92px;
+    height:25px;
+    font-size: 10px;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+}
+.maddress {
+    position: relative;
+    top: 70px;
+    height: 25px;
+    width: 100%;
+}
+.addressfont {
+    position: relative;
+    float: left;
+    left: -205px;
+    color: black;
+    font-weight: bold;
+    line-height:-10px;
+}
+
+.msixthsrow {
+    position: relative;
+    top: 85px;
+    height: 25px;
+    width: 100%;
+}
+.mseventhrow {
+    position: relative;
+    width: 38%;
+    height: 55px;
+    float: left;
+    margin-bottom: 5px;
+    top: 85px;
+
+}
+.eightsrow {
+    position: relative;
+    width: 100%;
+    height: 25px;
+    top: 160px;
+}
+
+.eightsrow p{
+    position: relative;
+    color: black;
+    line-height:3px;
+    font-size:15px;
+    float: left;
+    font-weight: bold;
+    margin-left: -208px;
+}
+
+.needapartner {
+    float:left;margin-left:30px;margin-top: -3px;
+}
+
+
+/*below styles is for employer.php*/

@@ -1,0 +1,360 @@
+
+
+.businessSection {
+            background-color: #f4f4f4; 
+            position: relative;
+            height: auto;
+            width: 100%;
+            padding: 2vw;
+}
+
+  #businessSection {
+    background-color: rgb(231, 227, 227);
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: auto;
+    width: 100%;
+    padding-top: 1vw;
+
+}
+
+#businessSection1{
+    background-color: white;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: auto;
+     width: 100%;
+    padding-top: 1vw;
+}
+
+
+#businessSection2 {
+    position: relative;
+    margin-top: 0px;
+    height: 40vw;
+}
+
+
+#businessSection3{
+    background-color: white;
+    position: relative;
+    margin-bottom: 70px;
+    height: auto;
+     width: 100%;
+}
+
+   span {
+    font-size: 18px;
+}
+
+    select {
+    width: 170px;
+    height: 50px;
+    text-align: left;
+    border: solid 1px black;
+    margin-right: 7px;
+
+}
+
+#paymentSection2 {
+    position: relative;
+    margin-top: 0px;
+    height: auto;
+    width: auto;
+    float: right;
+    margin-right: 170px;
+
+}
+
+ 
+
+
+
+ 
+
+
+#businesslistingphoto {
+    position: relative;
+    margin-top: 0px;
+    height: 25vw;
+    background-image: url('../files/businesslistingphoto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.businessSection2 {
+    position: relative;
+    margin-top: 0px;
+    height: 40vw;
+}
+
+
+.paymentdetailsfont {
+    font-size: 2.4vmax;
+    margin-bottom: 2vw;
+    font-family: Taviraj-Regular;
+}
+
+.repeatedlabelfont {
+    font-size: 1.5vmax;
+    font-family: Taviraj-Regular;
+}
+
+.repeatedlabelfont2 {
+     font-size: 1.2vmax;
+     margin-top: -2.5vmax;
+     float: right;
+     text-align: center;
+     font-family: Taviraj-Regular;
+}
+
+
+
+
+.repeatedlabelfont5 {
+    font-size: 1.3vmax;
+    font-family: Taviraj-Regular;   
+    text-align: center;
+    font-weight: bold;
+}
+
+.selectstyle {
+    height: 4vmax;
+    font-size: 1.1vmax;
+    padding-left: 5px;
+    width: 19vmax;
+}
+
+.textfieldstyle {
+    height: 4vmax;
+    font-size: 1.1vmax;
+    
+}
+
+
+   
+.page2paybtn {
+    position: relative;
+    height: 3vmax;
+    width: 9vmax;
+    background-color :#223c88;
+    color: white;
+    font-size: 1.5vmax;
+    border-radius: 3px 3px 3px 3px;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+
+}
+
+h2,h4 {
+    font-weight:bold;
+}
+
+.Theerd-col {
+    top: 137px;
+}
+
+/* Tablet And Mobile */
+@media(max-width:767px) {
+
+
+
+    .Theerd-col {
+        position: static;
+        top: 0px;
+    }
+}
+
+
+/*new mid section style*/
+
+.inputrowstyle {
+     position: relative;height: auto;width: 100%;margin: auto;margin-top: 3vw;margin-bottom: 3vw
+}
+
+.labelinputalighndiv {
+    position: relative;width: 85%;height: 100%;margin: auto;margin-bottom: 2vw
+}
+
+.repeatedlabelfont4 {
+    font-size: 1.3vmax;
+    font-family: Taviraj-Regular;  
+}
+
+.textfieldstyle2 {
+    position: relative;
+    height: 4vmax;
+    font-size: 1.1vmax;
+    width: 100%;
+    margin-bottom: 2vw;
+    margin:auto;
+}
+
+.officeusediv {
+    position: relative;
+    margin-top: 4vmax;
+    margin-bottom: .25vw
+}
+
+.officeusefontstyle {
+    font-weight: bold;
+    font-size: 1.4vmax;
+    color: #223c88
+}
+/*end of new mid section style*/
+
+
+
+.headofficelocationitemsdiv1 {
+     position: relative;height: auto;width: 100%;margin: auto;background-color: #f4f4f4
+}
+
+.swuitsteetcountry {
+    position: relative;width: 90%;height: auto;margin: auto;
+}
+
+.headofficeitemslocationinputs {
+    position: relative;
+    height: 4vmax;
+    font-size: 1.1vmax;
+    width: 100%;
+    margin:auto;
+    margin-bottom: 2vw
+}
+
+.companyheadofficefont {
+    position: relative;height: 6vmax;width: 100%;margin: auto;background-color: #f4f4f4;font-weight: bold;
+    font-family: Taviraj-Regular;padding-top: 2vmax;font-size: 1.4vmax
+
+}
+
+.headofficelocationitemsdiv2 {
+    position: relative;height: auto;width: 100%;margin: auto;background-color: #f4f4f4
+}
+
+
+.headofficelocationitemsdiv3 {
+    position: relative;height: auto;width: 100%;margin: auto;background-color: #f4f4f4;margin-bottom: 7vmax
+}
+
+.page3paybtn {
+    position: relative;
+    height: 3vmax;
+    width: 9vmax;
+    margin-top: 4vw;
+    margin-bottom: 1vmax;
+    background-color :#223c88;
+    color: white;
+    font-size: 1.4vmax;
+    border-radius: 3px 3px 3px 3px;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+
+.page3paybtn2 {
+    position: relative;
+    height: 3vmax;
+    width: 18vmax;
+    margin-top: 4vw;
+    margin-bottom: 1vmax;
+    background-color :#223c88;
+    color: white;
+    font-size: 1.4vmax;
+    border-radius: 3px 3px 3px 3px;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+    
+}
+
+.repeatedlabelfont3 {
+    font-size: 1.1vmax;
+    font-family: Taviraj-Regular;
+}
+
+.mya{
+    position: relative;
+    font-size: .9vmax;
+    text-decoration: underline;
+    font-family: Taviraj-Regular;
+}
+.mya3{
+    position: relative;
+    font-size: .9vmax;
+    font-family: Taviraj-Regular;
+}
+
+.mya2{
+    font-size: 1.2vmax;
+    font-family: Taviraj-Regular;
+    margin-bottom: 1vmax
+}
+
+
+.textfieldstyle3 {
+    position: relative;
+    height: 4vmax;
+    font-size: 1.1vmax;
+    width: 70%;
+    margin-bottom: 2vw;
+    margin:auto;
+    float: left;
+    margin-right: 2%
+}
+
+.textfieldstyle4 {
+    position: relative;
+    height: 4vmax;
+    font-size: 1.1vmax;
+    width: 28%;
+    margin-bottom: 2vw;
+    margin:auto;
+    float: left;
+    background-color: #2a52be;
+    color: white;
+    font-size: 1.5vmax
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

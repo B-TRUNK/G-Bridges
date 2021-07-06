@@ -1,0 +1,149 @@
+
+body {
+    background-color: white
+}
+#contactPhoto {
+    position: relative;
+    margin-top: 0px;
+    height: 25vw;
+    background-image: url('../files/contactUsPhoto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#contactUsSection {
+    position: relative;
+    margin-top: 0px;
+    height: auto;
+    padding-top: 4vw;
+}
+
+#contactUsSection2 {
+    position: relative;
+    margin-top: 0px;
+    height: 40vw;
+}
+
+#contactUsLeft {
+    position: relative;
+    margin-top: 0px;
+    height: auto;
+    float: left;
+    padding-top: 3vw;
+    padding-left: 6vw;
+    padding-right: 5vw;
+    margin-bottom: 3vw;
+}
+
+#contactUsLeft h1{
+    float: left;
+    margin-bottom: 2vw;
+    font-family: Taviraj-Regular;
+}
+
+#contactUsLeft h3{
+    float: left;
+    margin-bottom: 1vw;
+    clear: left;
+    font-family: Taviraj-Regular;
+}
+
+#contactUsRight {
+    position: relative;
+    margin-top: 0px;
+    height: auto;
+    float: right;
+    padding-top: 3vw;
+    padding-left: 6vw;
+    margin-bottom: 3vw;
+}
+
+
+#contactSubmitBtn {
+    height:4vw;
+    width:14vw;
+    background-color:#223c88;
+    color: white;
+    font-size: 2vw;
+    font-family: Taviraj-Regular;
+}
+
+#nameRowStyle {
+    height:auto;width:100%;margin-bottom: 4vw;
+}
+#nameRowStyle2 {
+    height:3vmax;width:80%;margin-bottom:4vw
+}
+#nameRowStyle3 {
+    height:3vmax;width:80%;margin-bottom: 4vw;
+}
+.nameInputStyle {
+    height:100%;width:90%;margin-bottom:.5vw;background-color:transparent;border-radius: 3px 3px 3px 3px;
+}
+
+#emailRowStyle {
+    position:relative;height:auto;width:100%;margin-bottom: 4vw;
+}
+#emailRowStyle2 {
+    height:50px;width:100%
+}
+
+.emailInputStyle {
+    height:3vmax;width:95%;background-color:transparent;;border-radius: 3px 3px 3px 3px;
+}
+
+
+#subjectRowStyle {
+    position:relative;height:auto;width:100%;
+}
+.subjectRowStyle2 {
+    height:50px;width:100%
+}
+.subjectInputStyle {
+    height:3vmax;width:95%;background-color:transparent;;border-radius: 3px 3px 3px 3px;
+}
+#messageRowStyle {
+    position:relative;height:auto;width:100%
+}
+.messageRowStyle2 {
+    height:200px;width:100%
+}
+.messageInputStyle {
+    height:14VMAX;width:95%;background-color:transparent;;border-radius: 3px 3px 3px 3px;
+}
+#phoneRowStyle {
+    height:auto;width:100%;margin-left:0vw;margin-bottom:3vw
+}
+.phoneInputStyle1and2 {
+    height:3vmax;width:8vw;margin-bottom:.5vw;background-color:transparent;margin-right:5vw;;border-radius: 3px 3px 3px 3px;
+}
+.phoneInputStyle3 {
+    height:3vmax;width:10vw;margin-bottom:.5vw;background-color:transparent;margin-right:1vw;;border-radius: 3px 3px 3px 3px;
+}
+
+.contactUsFont {
+    font-size: 1.7vw;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+    clear: left;
+    margin-bottom: 1vw;
+}
+.h1P{
+    float: left;
+    margin-bottom: 5vw;
+    font-size: 1.2vw;
+}
+
+.rightFontsColor {
+    color:#808080
+}
+
+.rightFontsStyle {
+    color: #808080;
+    float: left;
+    font-family: Taviraj-Regular;
+    font-size :1.2vw;
+    margin-bottom: 2vw;
+}
+

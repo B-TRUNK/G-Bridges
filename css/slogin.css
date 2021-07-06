@@ -1,0 +1,221 @@
+.slogindiv {
+	position: relative;
+	height: 33vmax;
+	width: 50vmax;
+	background-color: white;
+	margin: auto;
+	margin-top: 10vmax;
+	-webkit-box-shadow: -1px 0px 11px 4px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 0px 11px 4px rgba(0,0,0,0.75);
+	box-shadow: -1px 0px 11px 4px rgba(0,0,0,0.75);
+}
+
+.leftdiv {
+	position: relative;
+	background-color: #f4f4f4;
+	float: left;
+	height: 100%;
+	width: 35%;
+}
+
+.welcomefont {
+	position: relative;
+	margin-bottom: 5px;
+	font-size: 2.3vmax;
+	font-weight: bold;
+	text-align: center;
+	font-family: Taviraj-Regular;
+	margin-top : 5%;
+	color: #223c88;
+}
+
+.gladfont {
+	position: relative;
+	font-size: 1.3vmax;
+	text-align: center;
+	font-family: Taviraj-Regular;
+	color: #223c88;
+}
+
+.rightdiv {
+	position: relative;
+	float: right;
+	height: 90%;
+	width: 60%;
+	clear: right;
+	margin-top: 1.5vmax;
+}
+
+.loginword {
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	font-size: 2.1vmax;
+	font-weight: bold;
+	font-family: Taviraj-Regular;
+	color: #223c88;
+	margin-bottom: 3vmax;
+}
+
+.emaildiv {
+	position: relative;
+	height: 5vmax;
+	width: 80%;
+	margin-bottom: 2vw
+}
+
+.passworddiv {
+	position: relative;
+	height: 5vmax;
+	width: 80%;
+	margin-bottom: .5vw;
+	margin-bottom: 2vw
+}
+
+.emailpasswordfont {
+	position: relative;
+	margin-top: 0px;
+	margin-left: 0px;
+	font-size: 1vmax;
+	font-family: Taviraj-Regular;
+	margin-bottom: 1vw;
+	clear: left;
+}
+
+.inputclass {
+	position: relative;
+	height: 2vw;
+	width: 80%;
+	font-size: 1.1vmax;
+}
+
+.rememberforgotdiv {
+	position: relative;
+	height: 1.1vmax;
+	width: 65%;
+	margin-bottom: 2vw;
+	line-height: 1.1vmax;
+	clear: left;
+}
+
+.rememberme {
+	position: relative;
+	float: left;
+	height: 1vmax;
+	width: 1vmax;
+	margin-right: 1vmax;
+	margin-top: 0px;
+}
+
+.rememberlabelfont {
+	position: relative;
+	margin-top: 0px;
+	font-size: 1vmax;
+	font-family: Taviraj-Regular;
+	float: left;
+	margin-right: .5vw;
+}
+
+.forgotpassword {
+	position: relative;
+	float: right;
+	color: #223c88;
+	font-size: 1.1vmax;
+	text-decoration: none;
+}
+
+.forgotpassword:hover{
+	text-decoration: underline;
+}
+
+.btndiv {
+	position: relative;
+	height: 3vmax;
+	width: 12vmax;
+	margin-bottom: 2vmax;
+}
+
+#submitBtn {
+	position: relative;
+	height: 100%;
+	width: 90%;
+	-webkit-appearance: none;
+	background-color: #223c88;
+	color: white;
+	font-weight: bold;
+	font-size: 1.1vmax;
+	font-family: Taviraj-Regular;
+}
+
+
+.signup {
+	position: relative;
+	color: #223c88;
+	font-size: 1.1vmax;
+	float: left;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.signup:hover{
+	text-decoration: underline;
+}
+
+
+.span-font {
+            float: left;
+            clear: left;
+}
+
+.span-font p {
+            font-size: 1.1vw;
+            color: red;
+            
+}
+
+.logodiv {
+            position: relative;
+            height: 9vw;
+            width: 5vw;
+            margin: auto;
+            margin-top: 7vmax;
+            background-image: url('../files/logo.png');
+		    background-repeat: no-repeat;
+		    background-size: 100% 100%;
+		    background-position: center;
+        }
+
+
+.homepagelink {
+	position: relative;
+	top: 2vw;
+	float: right;
+	font-size: 1vw;
+	margin-right: 1.5vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,154 @@
+        .logindiv {
+            position: relative;
+            height: 30vmax;
+            width: 30vmax;
+            background-color: #360009;
+            margin: auto;
+            margin-top: 6vw;
+            padding-top: 1vw;
+            -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            }
+
+        .secureloginfont {
+            position: relative;
+            font-size: 2vw;
+            color :white;
+            font-family: Taviraj-Regular;
+            font-weight: bold;
+            top: 1.5vmax;
+        }
+
+        .logininfodiv {
+            position: relative;
+            height: 11vmax;
+            width: 30vmax;
+            margin-top: 8vmax;
+            border :solid 1px white;
+            border-color: transparent transparent white transparent;
+        }
+
+        .usernamediv {
+            position: relative;
+            height: 4vmax;
+            width: 100%;
+            margin-bottom: 1vmax;
+            padding-right: 1vmax;
+            padding-left: 1vmax;
+        }
+
+        .passworddiv {
+            position: relative;
+            height: 4vmax;
+            width: 100%;
+            padding-right: 1vmax;
+            padding-left: 1vmax;
+        }
+
+        .inputclass {
+            width: 14vmax;
+            height: 2vmax;
+            border-radius: 5px 5px 5px 5px;
+            float: right;
+            clear: right;
+        }
+        ::placeholder {
+            font-size: 1vmax;
+        }
+
+        .candidatesfont {
+            float: left;clear:left;font-size: 1.2vmax;color: white;font-family: Taviraj-Regular;
+        }
+
+        .bottomcontrols {
+            position: relative;
+            height: 7vmax;
+            width: 30vmax;
+        }
+
+        .half1div {
+            position: relative;
+            height: 100%;
+            width: 50%;
+            float: left;
+            padding-top: 2vmax;
+        }
+
+        .half2div {
+            position: relative;
+            height: 100%;
+            width: 50%;
+            float: left;
+            clear: right;
+        }
+
+        .forgotlink {
+            position: relative;
+            margin-left: 1vmax;
+            color: #3158ff;
+            font-size: .9vw;
+            font-weight: bold;
+        }
+
+        .notamember {
+            position: relative;
+            margin-left: 1vmax;
+            color: white;
+            font-size: .9vw;
+        }
+
+        .signup {
+            position: relative;
+            margin-left: .5vmax;
+            color: #3158ff;
+            font-size: .9vw;
+            font-weight: bold;
+            clear: left;
+        }
+
+        .loginbutton {
+            position: relative;
+            float: right;
+            width: 7vw;
+            font-size: .9vw;
+            font-weight: bold;
+            border-radius: 5px 5px 5px 5px;
+            margin-top: 5vmax;
+            margin-right: 1vmax;
+            text-align: center;
+        }
+
+        .profilepic {
+            position: relative;
+            height: 5vmax;
+            width: 5vmax;
+            margin-left: 2vmax;
+            float: left;
+            clear: right;
+            margin-right: 2vmax;
+            margin-top: 1.25vmax;
+            background-image: url('../files/emptypf.jpg');
+            background-repeat: no-repeat;
+            /*background-attachment: fixed;*/
+            background-size: cover;
+            background-position: center;
+        }
+
+        .span-font {
+            float: right;
+            clear: right;
+        }
+
+        .span-font p{
+            font-size: 1.1vw;
+            color: white;
+            
+        }
+
+        
+
+
+
+
+

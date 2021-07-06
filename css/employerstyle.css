@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+    background-color: #e3e3e3;
+
+}
+
+@font-face {
+    font-family: 'Taviraj-Black';
+    src: url('../fonts/Taviraj-Black.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Taviraj-Black';
+    src: url('../fonts/Taviraj-Black.woff2') format('woff2');
+    }
+
+.employersdiv {
+    height: 600px;
+    width: 600px;
+    background-color: #fafafa;
+    -webkit-box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 13px 66px -10px rgba(0,0,0,0.75);
+    margin: auto;
+    margin-top: 50px;
+}
+.employerupperdiv {
+    height: 15%;
+    width: 100%;
+    border-bottom: 1.5px #223c88 solid;
+   
+}
+.employerupperdiv p{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 90px;
+    text-align: center;
+    color: white;
+    float: left;
+    margin-left: 10px;
+    color: black;
+}
+.leftdiv {
+    position: relative;
+    height: 500px;
+    width: 300px;
+    float: left;
+    margin-left: -220px;
+    padding-top: 10px;
+}
+.rightdiv {
+    position: relative;
+    height: 500px;
+    width: 250px;
+    float: right;
+    margin-left: 0px;
+    padding-top: 10px;
+}
+
+
+.label {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 1px;
+}
+.categorycombo {
+    
+    float: left;
+    margin-left: 0px;
+    position: relative;
+    height: 30px;
+    width: 200px;
+}
+.textfield {
+    float: left;
+    margin-left: 10px;
+    position: relative;
+}
+.labelfieldcontainter {
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 60px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.areadiv {
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 90px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.textareainput {
+    margin-top: -20px;
+}
+.registerbtn {position: relative;
+    top: 200px;
+        background-color:#223c88;height:40px;width:150px;color:white;font-size:17px;font-weight:bold;border:1px solid maroon;line-height:5px;float:right;margin-right:10px;-webkit-box-shadow: 1px 12px 13px 2px rgba(0,0,0,0.42);
+    -moz-box-shadow: 1px 12px 13px 2px rgba(0,0,0,0.42);
+    box-shadow: 1px 12px 13px 2px rgba(0,0,0,0.42);
+    
+}

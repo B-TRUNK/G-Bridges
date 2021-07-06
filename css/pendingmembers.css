@@ -1,0 +1,100 @@
+
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    height:auto;
+    text-align: center;
+    -webkit-box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    position: relative;
+    margin: auto;
+}
+.myth {
+background-color: white;
+color: black;
+}
+.mytr{width:auto;
+    height:35px;
+    background-color :#223c88;
+    border:solid 1px black;
+    line-height:35px;
+    color:white;
+    text-align:center;}
+
+th{
+    width:150px;
+    height:35pxl;
+    background-color :#223c88;
+    color:white;
+    border: solid 1px black;
+    width:250px;
+    line-height:35px;
+    text-align:center;
+    font-family: Taviraj-Regular;
+    } 
+td{
+    width:150px;
+    height:35px;
+    background-color:white;
+    border:solid 1px black;
+    color:black;
+    text-align:center;
+}
+td:hover{
+    width:150px;
+    height:35px;
+    background-color : 	#F5F5F5;
+    border:solid 1px black;
+    color:black;
+    font-weight :bold;
+    text-align:center;
+}
+
+.actionlabelfont {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.actiondiv {
+    height: 310px;
+    border :solid 1px black;
+    border-color :transparent transparent transparent transparent;
+    width: 300px;
+    position: relative;
+    margin-top: 4vw;
+    -webkit-box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 10px -2px rgba(0,0,0,0.75);
+    margin-bottom: 30px;
+}
+
+.useremailstyle {
+    position: relative;
+    margin: auto;
+    height: 25px;
+    width: 200px;
+    margin-bottom: 1vw;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.submitBtn {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+}
+.neglectBtn {
+    height: 30px;
+    width: 70px;
+    background-color: maroon;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+}
+.textareainput {
+    resize: none;
+}

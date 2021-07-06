@@ -1,0 +1,286 @@
+.advancedJobSearchContainer {
+    position: relative;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+    height: auto;
+    width: 95%;
+    padding-top: 4vw;
+}
+
+#empMainSearchSection {
+    position: relative;
+    height: auto;
+    width: 100%;
+    margin-bottom: 8vw;
+}
+
+#empMainContainer2 {
+    position: relative;
+    margin-bottom: 4vw;
+    height: auto;
+}
+
+
+#jObSearch {
+    position: relative;
+    height: auto;
+    width: 100%;
+    margin-bottom: 6vw;
+    padding-left: 0vw;
+}
+#jObSearchBlock{
+    position: relative;
+    height: 7vw;
+    width: 100%;
+}
+
+.nameOrCompanyFont {
+    position: relative;
+    font-size: 1.5vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    margin-bottom: .5vw;
+    font-weight: bold;
+}
+
+.nameOrCompanyInput {
+    position: relative;
+    width: 100%;
+    height: 60%;
+    font-family: Taviraj-Regular;
+    border-radius: 1px 1px 1px 1px;
+}
+
+#jObSearch2 {
+    position: relative;
+    height: auto;
+    margin-bottom: 4vw;
+    padding-left: 0vw;
+}
+#jObSearch2Block{
+    position: relative;
+    margin :auto;
+    height: 7vw;
+    width: 100%;
+}
+
+.locationFont {
+    position: relative;
+    font-size: 1.5vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    margin-bottom: .5vw;
+    font-weight: bold;
+
+}
+
+.locationInput {
+    position: relative;
+    width: 100%;
+    height: 60%;
+    font-family: Taviraj-Regular;
+    margin-bottom: 1vw;
+    font-size: 1.2vw;
+    background-color: white;
+}
+
+.locationInput p{
+    color: black;
+    font-size: 1vw;
+}
+
+#jObSearch3 {
+    position: relative;
+    height: auto;
+    padding-top: 3vw;
+    
+}
+#jObSearch3Block{
+    position: relative;
+    margin :auto;
+    height: 5vw;
+    width: 100%;
+}
+.findJobsBtn {
+    position: relative;
+    width: 13vw;
+    height: 80%;
+    font-family: Taviraj-Regular;
+    background-color: #223c88;
+    color: white;
+    font-size: 1.6vw;
+    font-weight: bold;
+    margin-bottom: .6vw;
+}
+
+.advancedJobSearchBlock {
+    position: relative;
+    height: 4vw;
+    width: 100%;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}
+
+.advancedJobSearchBlock p{
+    font-size: 2vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    font-weight: bold;
+}
+
+::placeholder {
+    font-size: 1.1vw;
+}
+
+#checkBoxesDiv {
+    position: relative;
+    height: auto;
+    width: 100%;
+    margin: auto;
+}
+
+#leftCheckBoxesDiv {
+    height: 10vw;
+    margin-bottom: 4vw;
+    width: 50%;
+    padding-left: 0vw;
+}
+#rightCheckBoxesDiv {
+    height: 12vw;
+    width: 100%;
+    padding-left: 0vw;
+
+}
+
+#leftCheckBoxesDivUpper {
+    position: relative;
+    height: 30%;
+    width: 100%;
+}
+
+#jobTypeFontDiv {
+    position: relative;
+    float: left   ;
+    height: 100%;
+    width: 30%;
+}
+
+#jobTypeFontDiv p{
+    position: relative;
+    float: left;
+    font-size: 1.5vw;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+
+}
+
+#leftCheckBoxesDivLower {
+    position: relative;
+    height: 70%;
+    width: 100%;
+}
+
+#lowerLeft {
+    position: relative;
+    height: 100%;
+    width: 33.3333333333333%;
+    float: left;
+}
+#lowerMiddle {
+    position: relative;
+    height: 100%;
+    width: 33.3333333333333%;
+    float: left;
+}
+#lowerRight {
+    position: relative;
+    height: 100%;
+    width: 33.3333333333333%;
+    float: left;
+}
+
+#upperLowerLeft {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    top: 0%;
+}
+#lowerLowerLeft {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    bottom: 0%;
+}
+
+#upperLowerMiddle {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    top: 0%;
+}
+#lowerLowerMiddle {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    bottom: 0%;
+}
+
+#upperLowerRight {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    top: 0%;
+}
+#lowerLowerRight {
+    position: relative;
+    height: 50%;
+    width: 100%;
+    bottom: 0%;
+}
+
+#cellFontDiv {
+    position: relative;
+    height: 100%;
+    width: 60%;
+    float: left;
+    padding-top: .5vw;
+}
+
+#cellFontDiv p{
+    position: relative;
+    float: left;
+    font-size: 1.1vw;
+}
+
+#cellChkDiv {
+    position: relative;
+    height: 100%;
+    width: 40%;
+    float: right;
+    padding-top: .5vw;
+}
+
+#cellChkDiv input[type='checkbox']{
+    position: relative;
+    float: left;
+    height: 2vw;
+    width: 2vw;
+    top: 0px;
+}
+
+
+.bottomfindJobsBtn {
+    position: relative;
+    width: 14vw;
+    height: 45%;
+    font-family: Taviraj-Regular;
+    background-color: #223c88;
+    color: white;
+    font-size: 1.6vw;
+    font-weight: bold;
+    margin-bottom: .6vw;
+    margin-top: 9vw;
+}
+
+
+

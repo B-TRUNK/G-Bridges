@@ -1,0 +1,152 @@
+==============================================================
+// All functions for project folders/files are Explained Below:
+==============================================================
+
+
+//// 1- ../businesslisting
+
+a)bl-lister-info.php , bl-plan-choose.php ,bl-payment-visa.php (are front end designed for wide/mobile screens)
+b)businesslistingdisplay.php : is an incident to call database corresponding search results to path : ../templates/business-display-template.php 
+
+--------------------------------------------------------------
+
+
+//// 2- ../config
+
+a) init.php an implemented function to easily deal with library classes in folder "../lib"
+b) config.php : database connection file
+
+--------------------------------------------------------------
+
+
+//// 3- ../css
+
+all css references for each separated file .
+
+--------------------------------------------------------------
+
+
+//// 4- ../db
+
+JSON encoding for database tables (countries,states & cities) .
+
+--------------------------------------------------------------
+
+
+//// 5- ../documents
+
+Terms and conditions pdf file.
+
+--------------------------------------------------------------
+
+
+//// 6- ../employment
+
+a)all-jobs-results.php : is an incident to call database corresponding search results to path : ../templates/all-jobs-template.php 
+b)employmentselection.php
+--------------------------------------------------------------
+
+//// 7- ../files
+
+all row photos used in designed pages
+
+
+--------------------------------------------------------------
+
+//// 7- ../forms
+
+frontend/back end process for all forms designed by sameh and approved by mr fawaz 
+hint : loginold.php , register are old designs modified later for login.php & register2.php
+
+--------------------------------------------------------------
+
+//// 8- ../js
+
+a)myscript.php & myscript2.php are API functions to get country,then state then city by order and null conditions for non-choosen tabs.
+b) all other files are libraries of bootstrap
+
+
+--------------------------------------------------------------
+
+
+//// 9- ../lib
+
+a)Database.php : PDO connection class with data base.
+b)Business.php : a class with gathering functions for businesses filtering queries.
+c)Job.php      : a class with gathering functions for jobs filtering queries.
+d)Template.php : a template Class to display html content .
+
+
+--------------------------------------------------------------
+
+//// 10- ../Mailer
+
+php mailer module to send mails when 
+1) new regular membership request in pendingrequest2.php
+2) resetting member password in resetpassword.php
+3) when a new member request is confirmed/neglected by an already active member.
+
+--------------------------------------------------------------
+
+//// 11- ../pages
+
+frontend design for about.php/contact.php/old t&c.php/
+newfooter.php -> only needs to be assembled in every page .
+
+
+--------------------------------------------------------------
+
+//// 12- ../templates
+
+containing recall templates for both business & jobs reviewing routine.
+
+
+--------------------------------------------------------------
+
+//// 13- ../uploads
+
+contains photos for profile pictures after log in & photos to be displayed for pre stored businesses in database for example
+
+
+==============================================================
+
+
+
+Best of luck,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

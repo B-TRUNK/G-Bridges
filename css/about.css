@@ -1,0 +1,884 @@
+body {
+    margin: 14vw;
+    margin-top: 2vw;
+    margin-bottom: 0vw;
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.woff2') format('woff2');
+    }
+    @font-face {
+    font-family: 'Taviraj-Regular';
+    src: url('../fonts/Taviraj-Regular.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Taviraj-Regular';
+    src: url('../fonts/Taviraj-Regular.woff2') format('woff2');
+    }
+
+
+#pagesandlogo {
+    position: relative;
+    margin-top: 0px;
+    height: 10vw;
+    background-color: white;
+}
+
+#sitemenu {
+    position: relative;
+    margin-top: 0px;
+    height: 5vw;
+    background-color: #0b1c2c;
+    padding: 0vw;
+}
+
+.siteMenuFontStyle{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.495vw;
+    font-family: Taviraj-Regular;
+    float: left;
+}
+.siteMenuFontStyle2 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.495vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    margin-left: 1vw;
+}
+.siteMenuFontStyle:hover{
+    color: #a6a6a6;
+}
+.siteMenuFontStyle2:hover{
+    color: #a6a6a6;
+}
+
+.siteTab1 {
+    position: relative;
+     height:5vw;
+     width:15vw;
+     line-height:5vw;
+     float: right;
+     right: 5.4vw;
+}
+
+.siteTab2 {
+    position: relative;
+     height:5vw;
+     width:15vw;
+     line-height:5vw;
+     float: right;
+     right: 5.3vw;
+}
+
+.siteTab3 {
+    position: relative;
+     height:5vw;
+     width:15vw;
+     line-height:5vw;
+     float: right;
+     right: 5.3vw;
+}
+.siteTab4 {
+    position: relative;
+     height:5vw;
+     width:24vw;
+     line-height:5vw;
+     float: right;
+     right: 5.3vw;
+}
+.siteTab5 {
+    position: relative;
+     height:5vw;
+     width:16vw;
+     line-height:5vw;
+     float: right;
+     right: 5.3vw;
+}
+
+
+
+
+#churchphoto {
+    position: relative;
+    margin-top: 0px;
+    /* height: 2525px; */
+    height: 25vw;
+    background-image: url('../files/AboutPhoto.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+}
+
+#fathersonhs {
+    position: relative;
+    height: 20vw;
+    margin-bottom: 20px;
+}
+#fathersonhs p{
+    text-align: center;
+    padding-top: 7.5%;
+    height: 20vw;
+    font-weight: bold;
+    font-size: 2.3vmax;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#ourvision {
+    height: 30vw;
+    margin: auto;
+    margin-bottom: 4vw
+}
+
+#ourvisioninnersec {
+    position: relative;
+    margin: auto;
+    height: 100%;
+    width: 93%;
+}
+
+#ourmission {
+    height: 30vw;
+    margin: auto;
+}
+
+#ourmissioninnersec {
+    position: relative;
+    margin: auto;
+    height: 100%;
+    width: 93%;
+}
+
+#visionrightsec {
+    position: relative;
+    height: 100%;
+    width: 55%;
+    float: right;
+}
+
+#visionrightsec p{
+    float: left;   
+    padding-right: 6vw;
+    font-family:Lato-Regular ;
+}
+
+#visionleftsec {
+    position: relative;
+    height: 100%;
+    width: 45%;
+    float: left;
+    background-image: url('../files/bible.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#missionrightsec {
+    position: relative;
+    height: 100%;
+    width: 45%;
+    float: right;
+    background-image: url('../files/earth.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#missionleftsec {
+    position: relative;
+    height: 100%;
+    width: 55%;
+    float: left;
+    padding-top: 3%;
+    padding-left: 10%;
+}
+
+
+
+#language {
+    float: right;
+    margin-right: 3vw;
+    position: relative;
+    height: 3vw;
+    width: 15vw;
+    top: 15%;
+}
+#language a{
+    float: right;
+    margin-left: 2vw;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white;
+    font-family:Taviraj-Regular ;
+}
+
+#pagesandlogocontainer {
+    position: relative;
+    width: 95%;
+    margin: auto;
+    height: 100%;
+}
+
+#logodiv {
+    position: relative;
+    float: left;
+    height: 90%;
+    width: 6vw;
+    background-image: url('../files/logo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: .5vw;
+    margin-right: 3vw;
+}
+
+#sitetabs {
+    position: relative;
+    float: left;
+    margin-left: 2vw;
+    height: 35%;
+    width: 65%;
+    margin-top: 4vw;
+}
+
+#sitetabs a{
+    float: left;
+    margin-left: 2vw;
+    position: relative;
+    text-align: center;
+    line-height: 5.5vw;
+    font-size: 1.7vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+
+
+#howitworksword {
+    position: relative;
+    margin-top: 0px;
+    height: 15vw;
+    width: 91%;
+    padding-left: 1vw;
+}
+
+#howitworksword p{
+    text-align: center;
+    padding-top: 10%;
+    height: 13vw;
+    font-weight: bold;
+    font-size:2.7vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+    float: left;
+}
+
+#howitworkssec {
+    position: relative;
+    height: 100vw;
+    width: 91%;
+    padding-left: 1vw;
+}
+
+#howitworkssec p{
+    float: left;
+    font-size: 1.4vw;
+    color: black;
+    margin-bottom: 3vw;
+    font-family:Lato-Regular ;
+}
+
+
+.missionLeftSecFont {
+    font-weight:bold;font-size:2.5vw;font-family: Taviraj-Regular;
+}
+.missionLeftSecFontText {
+    font-size:1.3vw;font-family:Lato-Regular
+}
+.howItWorksFont {
+    font-family: Taviraj-Regular;
+}
+#ourVisionFont {
+    font-weight:bold;font-size:2.5vw;font-family: Taviraj-Regular;
+}
+.ourVisionFontText {
+    font-size:1.3vw;font-family:Lato-Regular;
+}
+
+
+#bannerTabsDiv {
+    position: relative;
+    margin-left :1vw;
+    margin-top: 3.5vw;
+    float: left;
+    height:30%;
+    width: 65%;
+    padding-left: 0vw;
+}
+
+#logintabs {
+    position: relative;
+    float: right;
+    height: 100%;
+    width: 18%;
+}
+
+.bannerTabsDivFont{
+    color: black;
+    font-size: 1.3vw;
+    text-align: center;
+    line-height: 3VW;
+    font-weight: 500;
+    text-align: center;
+
+}
+.bannerTabsFontDiv {
+    position: relative;
+    height: 100%;
+    width: 19%;
+    float: left;
+    padding :auto;
+}
+.bannerTabsFontDiv1 {
+    position: relative;
+    height: 100%;
+    width: 23%;
+    float: left;
+    padding :auto;
+}
+.bannerTabsFontDiv2 {
+    position: relative;
+    height: 100%;
+    width: 17%;
+    float: left;
+    padding :auto;
+}
+
+
+
+#loginDiv {
+    position: relative;
+    margin-top: 3.5vw;
+    float: right;
+    height:30%;
+    width: 102%;
+}
+#logintabs a{
+    float: left;
+    margin-left: 1vw;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.3vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+    font-weight: 500;
+}
+
+#signupbtn {
+    position:relative;
+    background-color:#223c88;
+    height:100%;
+    width:45%;    
+    float: right;
+    border-radius: 2px 2px 2px 2px;
+}
+
+#signupbtn a {
+    position:relative;
+    font-family:Taviraj-Regular ;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.16vw;
+}
+
+/*
+logged out site menu 
+*/
+
+.loggedoutsitemenu{
+    position: relative;
+    background-color: #0b1c2c;
+    height: 5vw;
+
+}
+
+.buttonsarea {
+    position: relative;
+    height: 100%;
+    width: 75%;
+    margin: auto;
+}
+.button1 {
+    position: relative;
+    height: 100%;
+    width: 25%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button2 {
+    position: relative;
+    height: 100%;
+    width: 25%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button3 {
+    position: relative;
+    height: 100%;
+    width: 25%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button4 {
+    position: relative;
+    height: 100%;
+    width: 25%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+
+.loggedoutsitemenuarefs{
+    color: white;
+}
+
+.loggedoutsitemenuarefs:hover {
+    color: #a6a6a6;
+}
+
+/*
+end of logged out site menu 
+*/
+
+/*
+ logged in site menu
+*/
+
+.loggedinsitemenu{
+    position: relative;
+    background-color: #0b1c2c;
+    height: 5vw;
+
+}
+
+.buttonsarea2 {
+    position: relative;
+    height: 100%;
+    width: 90%;
+    margin: auto;
+}
+.button11 {
+    position: relative;
+    height: 100%;
+    width: 21%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button22 {
+    position: relative;
+    height: 100%;
+    width: 20%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button33 {
+    position: relative;
+    height: 100%;
+    width: 17%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button44 {
+    position: relative;
+    height: 100%;
+    width: 21%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+.button55 {
+    position: relative;
+    height: 100%;
+    width: 17%;
+    float: left;
+    font-size: 1.495vw;
+    text-align: center;
+    line-height: 5vw;
+    color: white;
+    font-weight: bold;
+    font-family: Taviraj-Regular;
+}
+
+
+/*
+ end of logged in site menu
+*/
+
+.loggedindiv {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.loggedinarea {
+    position: relative;
+    height: 50%;
+    margin-top: 15%;
+}
+.helloname {
+    position: relative;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+
+.loggedprofilepic {
+    position: relative;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.hellonamefont {
+    font-size: 1.3vw;
+    font-weight: bold;
+    color: gray;
+    font-family: Taviraj-Regular;
+}
+
+.picarea {
+    position: relative;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius :100%
+}
+
+/*
+.picarea img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+
+
+/*
+styles for password reset pages
+*/
+
+.input {
+        position: relative;
+        height: 2vw;
+        width: 22vw;
+        border-radius: 10px 10px 10px 10px;
+        margin-top: 1vw;
+        background-color:   #E8E8E8;
+        font-size: 1.4vw;
+    }
+
+    .confirmBtn {
+        position: relative;
+        height: 3vw;
+        width: 12vw;
+        margin-top: 1vw;
+        background-color: #223c88;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        line-height: 2vw;
+        font-size: 1.2vw;
+        padding: 0vw;
+    }
+
+    .labelfont {
+        position: relative;
+        margin-top: 6vw;
+        font-size: 2vw;
+    }
+/*
+end of styles for password reset pages
+*/
+
+/*
+START OF NEW FOOTER (NEW ONE IS IN NEWFOOTER.CSS)
+*/
+
+
+#footer {
+    position: relative;
+    height: 25vw;
+    background-color: #0c2e4e;
+    width: 100%;
+}
+
+#footermostleft {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:20%;
+    height: 19vw;
+}
+#footermostleft2 {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:23%;
+    height: 23vw;
+}
+
+#footermostleft3 {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:17%;
+    height: 19vw;
+}
+
+#footermostmostright {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:20%;
+    height: 23vw;
+    padding-left: 0vw
+}
+
+.footerMostLeftGlobe {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :1vw;font-family:Taviraj-Regular;margin-top: 3vw;margin-left: 3.5vw
+}
+.footerMostLeftWe{
+    font-size:1.1vw;font-weight:bold;color:white;margin-bottom :.1vw;;margin-left: 3.5vw;text-decoration: none;
+}
+.footerMostLeftWe:hover{
+    text-decoration: underline;
+}
+
+.footerMostLeftGlobe2 {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :1vw;font-family:Taviraj-Regular;margin-top: 3vw;margin-left: 1.75vw
+}
+.footerMostLeftWe2{
+    font-size:1.1vw;color:white;margin-bottom :.1vw;;margin-left: 1.75vw;text-decoration: none;
+}
+.footerMostLeftWe2:hover{
+    text-decoration: underline;
+}
+.emptydiv {
+    position: relative;
+    height: 7vw;
+    width: 100%;
+}
+
+.copyrights {
+    position: relative;
+    margin: auto;;
+    font-size: .8vw;
+    color: white;
+    text-align: center
+}
+
+.footerMostLeftGlobe3 {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :2vw;font-family:Taviraj-Regular;margin-top: 3vw
+}
+.footerMostLeftWe3{
+    font-size:1.1vw;color:white;margin-bottom :2vw;margin-left: 0vw
+}
+
+.footerMostLeftWe4{
+    font-size:1.1vw;color:white;margin-bottom :.1vw;
+}
+
+.socialmedia {
+    position: relative;
+    height: 2vw;
+    width: 10.5vw;
+    float: left;
+}
+
+.facebook {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/facebook.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.insta {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/instagram.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.twitter {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/twitter.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.facebook:hover{
+    background-image: url('../files/facebook2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.insta:hover{
+    background-image: url('../files/instagram2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.twitter:hover{
+    background-image: url('../files/twitter2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

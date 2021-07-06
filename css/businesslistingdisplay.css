@@ -1,0 +1,316 @@
+
+body {
+	margin :14vw;
+	margin-top :2vw;
+	/*background-color: #f4f4f4;*/
+	background-color: #f4f4f4;
+	margin-bottom: 0vw
+}
+#businesslistingdisplaybanner{
+	position: relative;
+    margin-top: 0px;
+    /* height: 2525px; */
+    height: 25vw;
+    background-image: url('../files/businesslistingdisplaybanner.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+}
+
+#businesslistingfont {
+	position: relative;
+	height: 20vw;
+	background-color: white;
+	width: 100%;
+	text-align: center;
+	padding-top: 3vw;
+}
+
+.label {
+	font-size: 2.75vw;
+	font-weight: bold;
+	font-family: Taviraj-Regular;
+	margin-bottom: 2vw;
+}
+
+
+.sublabel {
+	font-size: 1.5vw;
+	margin-left: 12vw;
+	margin-right: 12vw;
+	font-family: Lato-Regular;
+}
+
+#businesslistingdisplaymainbody {
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-top: 6vw;
+	padding-bottom: 6vw;
+	margin: auto;
+}
+
+.leftchoices {
+	position: relative;
+	height: auto;
+	background-color: white;
+	border : solid 1.5px #e0e0e0;
+	border-color: transparent #e0e0e0 #e0e0e0 transparent;
+	margin-bottom: 12vw;
+	padding-bottom: 0vw;
+	margin-right: 4vw
+}
+.rightresults {
+	position: relative;
+	height: auto;
+}
+
+.adsSection {
+	  margin-bottom: 3vw;position: relative;height: 20vw
+}
+
+.inner {
+  position: absolute;
+}
+
+.resultsSection {
+	background-color: transparent;margin-bottom: 3vw;position: relative;height: auto;margin-top: 2vw;overflow: auto;
+}
+
+.bestResultsFontSection {
+	position: relative;background-color: #0b1c2c;height: 4vw;width: 100%;color: white; font-size: 1.7vw;
+	line-height: 4vw ; font-family: Taviraj-Regular; padding-left :1vw;
+}
+
+.searchBusinessByFont {
+	position: relative;height: 5vw;width: 100%;color: black; font-size: 1.5vw;
+	line-height: 5vw ; font-family: Taviraj-Regular; padding-left :1vw; border :solid 1px #e0e0e0;
+	border-color: transparent transparent #e0e0e0 transparent;margin-bottom: 0vw
+}
+
+.searchCategory {
+	position: relative;height: 6vw;width: 100%;color: #b5b6ba; font-size: 1.1vw;
+	 font-family: Taviraj-Regular; padding-left :1vw; border :solid 1px #e0e0e0;
+	border-color: transparent transparent #e0e0e0 transparent;margin :auto; padding-bottom: 10px ;padding-top: 1vw ;
+}
+
+.blcategorystyle {
+	position: relative;height: 3vw;width: 100%;font-size: 1vw;
+	 font-family: Taviraj-Regular; padding-left :1vw; border :solid 1px #e0e0e0;
+	border-color: transparent transparent transparent transparent;
+	background-color: white;
+	cursor: pointer;
+	background-image:
+    linear-gradient(60deg, transparent 50%, gray 50%),
+    linear-gradient(125deg, gray 50%, transparent 50%),
+    linear-gradient(to right, white, white);
+  background-position:
+    calc(100% - 20px) calc(1em + .5vw),
+    calc(100% - 15px) calc(1em + .5vw),
+    100% 0;
+  background-size:
+    5px 5px,
+    5px 5px,
+    2.5em 2.5em;
+  background-repeat: no-repeat;
+}
+
+select {
+
+  /* styling */
+  background-color: white;
+  border: thin solid white;
+  border-radius: 4px;
+  display: inline-block;
+  font: inherit;
+  line-height: 1vw;
+
+  /* reset */
+
+  margin: 0;      
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+}
+
+.categorycellfontandselectmargin {
+	margin-bottom: .12vw;
+}
+
+.blsearchbtn {
+	position: relative;
+	margin-top: 4vw;
+	background-color: #223c88;
+	color: white;
+	font-size: 1.3vw;
+	height: 3vw;
+	width: 10vw;
+	line-height: 1.5vw;
+	margin-left: 1vw;
+	margin-bottom: 2vw
+}
+
+.blBestResultsDiv {
+  height: 15vw;
+  background-color: white;
+  border :solid .2em #223c88;
+  border-color: transparent transparent transparent #223c88;
+  margin-right: 2vw;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 2vw;
+  padding-top: .5vw;
+  padding-left: 1vw;
+}
+
+.blImages {
+	position: relative;float: left;height: 9vw;width: 9vw;background-color: #e5e5e5;
+}
+
+.blImages img{
+	position: relative;height: 100%;width: 100%
+}
+
+.blDataMainBlock {
+	position: relative;height: 10vw;width:10vw;margin-left: 1vw;float: left;padding-left: 0vw;
+}
+
+.businessNameBlock {
+	position: relative;height: 20%;width: 75%;background-color: transparent;font-size: 1vw;font-weight :bold;line-height: 1.25vw;float: left;border :solid .1em black;border-color: transparent black transparent transparent;
+}
+.businessLocationBlock {
+	position: relative;height: 20%;width: 25%;background-color: transparent;font-size: .9vw;color :#223c88;float: right;text-align: center;line-height: 2vw
+	;padding-left: .75vw
+}
+
+.blLabel {
+	position: relative;
+	height: 45%;
+	width: 110%;
+	float: left;
+	background-color: white;
+	font-size: 1vw;
+	color: gray;
+	margin-top: 1vw;
+	overflow: auto;
+	margin-bottom: 1vw;
+
+}
+
+.blSingleBtn {
+	height: 1vw;width: 7vw;position: relative;float: right;bottom: 0vw;right: -.5vw
+}
+.viewDetailsFont {
+	font-size: .9vw;float: left;position: relative;bottom: 0vw;line-height: .75vw;margin-right: .25vw
+}
+.MoreDetailsArrow {
+	background-image: url('../files/arrow.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    height: 1vw;
+    width: 1vw;
+    float: right;
+    position: relative;
+    bottom: 0vw;
+}
+
+/* Below section is to control the Ads Area */
+
+.hs {
+  display: grid;
+  grid-template-columns: 10px;
+  grid-auto-flow: column;
+  overflow-x: scroll;
+}
+
+.hs:before,
+.hs:after {
+  content: '';
+}
+
+.app {
+  overflow-y: scroll;
+  margin-bottom: 3vw;
+  height: auto
+}
+
+.hs > div,
+.item {
+  align-items: center;
+  background: #fff;
+  height: 16vw;
+  width: 12vw;
+  background-color: white;
+  margin-right: 4vw;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.blBestResultsDiv {
+  height: 11vw;
+  background-color: white;
+  margin-bottom: 3vw;
+  border :solid 4px #223c88;
+  border-color: transparent transparent transparent #223c88;
+  width: 105%;
+}
+
+/*End of Ads Cascading Style*/
+
+.blAdImageDiv {
+	height: 60%;
+	width: 90%;
+	margin: auto;
+	background-color: #e5e5e5;
+	margin-bottom: .5vw;
+}
+
+.adLabelFont {
+	font-size: 1.2vw;
+	margin-left: 1vw;
+	margin-bottom: .5vw;
+}
+
+.adLocation {
+	font-size: 1vw;
+	margin-left: 1vw;
+	margin-bottom: .5vw;
+	color :#223c88;
+}
+
+.adName {
+	font-size: 1vw;
+	margin-left: 1vw;
+	margin-bottom: .5vw;
+	color :gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

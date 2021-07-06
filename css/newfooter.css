@@ -1,0 +1,205 @@
+body {
+    margin: 14vw;
+}
+
+
+#footer {
+    position: relative;
+    height: 23vmax;
+    background-color: #0c2e4e;
+    width: 100%;
+}
+
+#footermostleft {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:20%;
+    height: 19vw;
+}
+#footermostleft2 {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:23%;
+    height: 23vw;
+}
+
+#footermostleft3 {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:17%;
+    height: 19vw;
+}
+
+#footermostmostright {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width:20%;
+    height: 23vw;
+    padding-left: 0vw
+}
+
+.footerMostLeftGlobe {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :2vw;font-family:Taviraj-Regular;margin-top: 3vw;margin-left: 3.5vw
+}
+.footerMostLeftWe{
+    font-size:1.1vw;bold;color:white;margin-bottom :1vw;;margin-left: 3.5vw;text-decoration: none;
+}
+.footerMostLeftWe:hover{
+    text-decoration: underline;
+}
+
+.footerMostLeftGlobe2 {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :2vw;font-family:Taviraj-Regular;margin-top: 3vw;margin-left: 1.75vw
+}
+.footerMostLeftWe2{
+    font-size:1.1vw;color:white;margin-bottom :1vw;;margin-left: 1.75vw;text-decoration: none;
+}
+.footerMostLeftWe2:hover{
+    text-decoration: underline;
+}
+.emptydiv {
+    position: relative;
+    height: 7vw;
+    width: 100%;
+}
+
+.copyrights {
+    position: relative;
+    margin: auto;;
+    font-size: .9vw;
+    color: white;
+    text-align: center
+}
+
+.footerMostLeftGlobe3 {
+    font-size:1.3vw;font-weight:bold;color:#c3c1bc;margin-bottom :2vw;font-family:Taviraj-Regular;margin-top: 3vw
+}
+.footerMostLeftWe3{
+    font-size:1.1vw;color:white;margin-bottom :2vw;margin-left: 0vw
+}
+
+.footerMostLeftWe4{
+    font-size:1.1vw;color:white;margin-bottom :1vw;
+}
+
+.socialmedia {
+    position: relative;
+    height: 2vw;
+    width: 10.5vw;
+    float: left;
+}
+
+.facebook {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/facebook.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.insta {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/instagram.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.twitter {
+    position: relative;
+    float: left;
+    width: 2vw;
+    height: 2vw;
+    background-image: url('../files/twitter.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.facebook:hover{
+    background-image: url('../files/facebook2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.insta:hover{
+    background-image: url('../files/instagram2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+.twitter:hover{
+    background-image: url('../files/twitter2.png');
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    background-position: center;
+    margin-right: .5vw
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

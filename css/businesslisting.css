@@ -1,0 +1,281 @@
+body {
+    background-color: white;
+    margin: 0px;
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Lato-Regular';
+    src: url('../fonts/Lato-Regular.woff2') format('woff2');
+    }
+    @font-face {
+    font-family: 'Taviraj-Regular';
+    src: url('../fonts/Taviraj-Regular.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Taviraj-Regular';
+    src: url('../fonts/Taviraj-Regular.woff2') format('woff2');
+    }
+
+#connections {
+    position: relative;
+    margin-top: 0px;
+    /* height: 180px; */
+    height: 4.5vw;
+    background-color: #47b0e0;
+}
+
+#pagesandlogo {
+    position: relative;
+    margin-top: 0px;
+    /* height: 523px; */
+    height: 15vw;
+    background-color: white;
+}
+
+#sitemenu {
+    position: relative;
+    margin-top: 0px;
+    height: 5.5vw;
+    background-color: #0b1c2c;
+}
+#tabsMenu {
+    position: relative;
+    height: 100%; 
+    width: 97vw;
+    margin: auto;
+}
+
+#tabsMenu a {
+    margin-right: 3.5vw;
+    position: relative;
+    text-align: center;
+    line-height: 5vw;
+    font-size: 1.6vw;
+    color: white;
+    font-family:Taviraj-Regular ;
+}
+
+
+#connectionbound {
+    position: relative;
+    height: 100%;
+    width: 90%;
+    margin: auto;
+}
+
+#phonenum {
+    float: left;
+    position: relative;
+    height: 3vw;
+    width: 14vw;
+    top: 15%;
+    margin-right:4vw;
+    background-image: url('../files/telephone.png');
+    background-repeat: no-repeat;
+    background-size: 3vw 3vw;
+}
+#phonenum p{
+    float: right;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.2vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+
+#email {
+    float: left;
+    position: relative;
+    height: 3vw;
+    width: 18.4vw;
+    top: 15%;
+    margin-right:4vw;
+    background-image: url('../files/email.png');
+    background-repeat: no-repeat;
+    background-size: 3vw 3vw;
+}
+#email p{
+    float: right;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.2vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#skype {
+    float: left;
+    position: relative;
+    height: 3vw;
+    width: 18.4vw;
+    top: 15%;
+    margin-right:4vw;
+    background-image: url('../files/skype.png');
+    background-repeat: no-repeat;
+    background-size: 3vw 3vw;
+}
+#skype p{
+    float: right;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.2vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#language {
+    float: left;
+    position: relative;
+    height: 3vw;
+    width: 15vw;
+    top: 15%;
+}
+#language a{
+    float: right;
+    margin-left: 2vw;
+    position: relative;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#pagesandlogocontainer {
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 100%;
+}
+
+#logodiv {
+    position: relative;
+    float: left;
+    height: 90%;
+    margin-top: 1%;
+    width: 8vw;
+    background-image: url('../files/LOGO.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#sitetabs {
+    position: relative;
+    float: left;
+    margin-left: 2vw;
+    height: 35%;
+    width: 65%;
+    margin-top: 4vw;
+}
+
+#sitetabs a{
+    float: left;
+    margin-left: 2vw;
+    position: relative;
+    text-align: center;
+    line-height: 5.5vw;
+    font-size: 1.7vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#logintabs {
+    position: relative;
+    float: right;
+    margin-left: 3vw;
+    height: 35%;
+    width: 19%;
+    margin-top: 4vw;
+}
+
+#logintabs a{
+    float: right;
+    margin-right: 2vw;
+    position: relative;
+    text-align: center;
+    line-height: 5.5vw;
+    font-size: 1.7vw;
+    color: black;
+    font-family:Taviraj-Regular ;
+}
+
+#signupbtn {
+    position:relative;
+    background-color:#47b0e0;
+    float:right;
+    height:3vw;
+    width:7vw;    
+    top:1.2vw;
+    font-weight:bold;
+    font-size:1vw;
+    padding-left: .9vw;
+    text-align:center; 
+    font-family:Taviraj-Regular ;
+}
+
+
+
+#footer {
+    position: relative;
+    margin-top: 0px;
+    height: 25vw;
+    background-color: #0b1c2c;
+    padding-top: 3vw;
+    padding-left: 3vw;
+}
+#footerconsec {
+    position: relative;
+    width: 85%;
+    height: 20vw;
+    padding :0%;
+}
+
+#footermostleft {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width: 37%;
+    height: 20vw;
+}
+#footerleft {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width: 19%;
+    height: 20vw;
+}
+
+#footerright {
+    position: relative;
+    margin-top: 0%;
+    float: left;
+    width: 19%;
+    height: 20vw;
+}
+#footermostright {
+    position: relative;
+    margin-top: 0%;
+    float: right;
+    width: 19%;
+    height: 20vw;
+}
+
+/*
+ End of fixed view section
+*/
+
+#searchBlock {
+    position: relative;
+    height: 800px;
+    width: 100%;
+    background-color: #f4f4f4;
+}

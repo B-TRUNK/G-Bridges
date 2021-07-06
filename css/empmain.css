@@ -1,0 +1,336 @@
+
+#findDreamJobFont {
+    position: relative;
+    font-size: 3.5vw;
+    margin-top: 10vw;
+    margin-bottom: 2vw;
+    font-family: Taviraj-Regular;
+    color: #0b1c2c;
+    font-weight: bold;
+}
+#workWithEmployerFont {
+    position: relative;
+    font-size: 2vw;
+    margin-bottom: 12vw;
+    font-family: Taviraj-Regular;
+    color: #0b1c2c;
+}
+
+#empMainSearchSection {
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+#empMainSearchSection2 {
+    position: relative;
+    height: auto;
+    width: 100%;
+    margin: auto;
+}
+
+#jObSearch {
+    position: relative;
+    height: auto;
+    margin-bottom: 8vw;
+}
+
+#jObSearchBlock{
+    position: relative;
+    margin :auto;
+    height: 7vw;
+    width: 90%;
+}
+
+#jObSearch2 {
+    position: relative;
+    height: auto;
+    margin-bottom: 8vw;
+}
+#jObSearch2Block{
+    position: relative;
+    margin :auto;
+    height: 7vw;
+    width: 90%;
+}
+
+#jObSearch4Block{
+    position: relative;
+    margin :auto;
+    height: 7vw;
+    width: 100%;
+    margin-bottom: 2vw;
+}
+
+#jObSearch5Block{
+    position: relative;
+    margin :auto;
+    height: 7vw;
+    width: 100%;
+    margin-bottom: 3vw
+}
+
+#jObSearch3 {
+    position: relative;
+    height: auto;
+    margin-bottom: 4vw;
+    padding-top: 3vw;
+}
+#jObSearch4 {
+    position: relative;
+    height: auto;
+    margin-bottom: 4vw;
+}
+#jObSearch5 {
+    position: relative;
+    height: auto;
+    margin-bottom: 2vw;
+}
+
+#jObSearch3Block{
+    position: relative;
+    margin :auto;
+    height: 5vw;
+    width: 80%;
+}
+
+
+#employer {
+    position: relative;
+    height: 18vw;
+    width: 95%;
+    padding-top: 2vw;
+}
+
+#employer a{
+    position: relative;
+    float: left;
+}
+
+#employerFont {
+    color: #223c88;
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+
+#empMainContainer {
+    position: relative;
+    margin-bottom: 4vw;
+    height: auto;
+}
+
+#empMainContainer2 {
+    position: relative;
+    margin-bottom: -2vw;
+    height: auto;
+}
+
+#empMainContainer4 {
+    position: relative;
+    margin-bottom: 4vw;
+    height: auto;
+    margin-top: 6vw;
+}
+
+#empMainContainer3 {
+    position: relative;
+    height: auto;
+}
+
+
+.nameOrCompanyFont {
+    position: relative;
+    font-size: 1.5vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    margin-bottom: .5vw;
+}
+
+.nameOrCompanyInput {
+    position: relative;
+    width: 100%;
+    height: 60%;
+    font-family: Taviraj-Regular;
+    border-radius: 1px 1px 1px 1px;
+}
+
+.locationFont {
+    position: relative;
+    font-size: 1.5vw;
+    font-family: Taviraj-Regular;
+    float: left;
+    margin-bottom: .5vw;
+    color: transparent;
+}
+
+.locationInput {
+    position: relative;
+    width: 90%;
+    height: 60%;
+    font-family: Taviraj-Regular;
+    margin-bottom: 1vw;
+    font-size: 1.2vw;
+    background-color: white;
+    float: right;
+    border: solid 1px black;
+    border-radius: 5px 5px 5px 5px;
+    padding-left: 1vw
+}
+
+.locationInput p{
+    color: black;
+    font-size: 1vw;
+}
+
+.advancedFont {
+    position: relative;
+    font-size: 1.4vw;
+    font-family: Taviraj-Regular;
+    margin-top: .5vw;
+    color: black;
+    font-weight: bold;
+}
+
+.findJobsBtn {
+    position: relative;
+    width: 8vw;
+    height: 80%;
+    font-family: Taviraj-Regular;
+    background-color: #223c88;
+    color: white;
+    font-size: 1.2vw;
+    font-weight: bold;
+    margin-bottom: .6vw;
+}
+
+.resultsDiv {
+    height: auto;width: 100%;position: relative;margin-bottom: 6vw;margin: auto ;background-color: #f3f5fa;padding-top: 2vw
+}
+.jobsResultsLeft {
+    height: 60vw;position: relative;float: left;margin-bottom: 2vw;overflow: auto
+}
+.jobsResultsRight {
+    height: 60vw;position: relative;float: left;margin-bottom: 3vw;
+}
+.jobsDisplayedDiv {
+    height: auto;width: 100%;background-color: white;border: solid .5px #d9d9d9;margin-bottom: .5px;border-radius: 3px 3px 3px 3x;padding-left: 1vw;padding-top: 1vw
+}
+.jobsDisplayedDiv:hover {
+    border: solid .5vw;
+    border-color: transparent transparent transparent #223c88;
+}
+.singleJobBtn {
+    height: 3vw;;width: 5vw;background-color: #223c88;margin-bottom: 1vw;color: white;border-radius: .5vw .5vw .5vw .5vw;background-color: #55abe0
+    ;
+}
+.logoAndApplyDiv {
+        height: auto;width: 100%;background-color: white;border: solid .5px #d9d9d9;margin-bottom: .5px;border-radius: 3px 3px 3px 3x;padding-left: 1vw;padding-top: 1vw
+        ;margin-bottom: 3vw
+}
+
+.companyLogo{
+    position: relative;height: 10vw;width: 29%;float: left;background-color: white}
+.jobDesc{
+position: relative;height: 10vw;width: 49%;float: left;background-color: white;padding-left:1.5vw;padding-top: 1.5vw
+}
+.applyDiv{
+position: relative;height: 10vw;width: 19%;float: left;background-color: white;padding-top: 3vw
+}
+.jobTitle {
+    color: #223c88;font-size: 1.4vw;font-family: Taviraj-Regular;margin-bottom: .25vw
+}
+.companyName {
+color: #8e8e8e;font-size: .9vw;margin-bottom: .25vw
+}
+.cityState {
+    color: #8e8e8e;font-size: 1vw; margin-bottom: .5vw
+}
+.applyBtn {
+    position: relative;
+    width: 90%;
+    height: 40%;
+    font-family: Taviraj-Regular;
+    background-color: #223c88;
+    color: white;
+    font-size: 1.4vw;
+    font-weight: bold;
+}
+
+.toggleDiv {
+    position: relative;
+    height: 45vw;
+    width: 100%;
+    margin-top: 15vw;
+    
+}
+.toggleDivUpper {
+    position: relative;
+    height: 4vw;
+    width: 100%;
+
+}
+.toggleDivMain {
+    position: relative;
+    height: 41vw;
+    width: 100%;
+    border: solid .5px #d9d9d9;
+}
+#detailsBtn {
+    position: relative;
+    height: 100%;
+    width: 7vw;
+    float: left;
+    background-color: transparent;
+    border :solid 0px;
+    font-size: 1.2vw;
+}
+#companyBtn {
+    position: relative;
+    height: 100%
+    ;width: 7vw;
+    float: left;
+    background-color: transparent;
+    border :solid 0px;
+    font-size: 1.2vw;
+}
+
+.jobDetailsDiv {
+    padding-top: 4vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.companyDetailsDiv {
+    position: relative;
+    padding-top: 4vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

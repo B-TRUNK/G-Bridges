@@ -1,0 +1,24 @@
+#postingDiv {
+    height:auto;width:80%;position:relative;margin:auto;margin-top:4vw;margin-bottom:6vw;
+    border-radius: 10px 10px 10px 10px;
+    background-color: whitesmoke;
+    -webkit-box-shadow: 4px 10px 33px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 10px 33px 3px rgba(0,0,0,0.75);
+    box-shadow: 4px 10px 33px 3px rgba(0,0,0,0.75);
+}
+
+.postingForm{
+    margin:auto;position:relative;margin-top: 2vw;margin-bottom: 2vw;
+}
+
+::placeholder{
+    font-size: 2.2vmin;
+}
+
+.labelFont {
+    font-size: 3vmin;
+    font-weight: 400;
+}
+.inputFont {
+    font-size: 2.2vmin;
+}

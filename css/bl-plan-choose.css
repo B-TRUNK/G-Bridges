@@ -1,0 +1,277 @@
+#businesslistingphoto {
+	position: relative;
+    margin-top: 0px;
+    height: 25vw;
+    background-image: url('../files/businesslistingphoto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.plancontainer {
+	position: relative;
+	height: auto;
+	width: 100%;
+	background-color: #f4f4f4;
+	margin-top: 2vmax;
+	padding-top: 2vw
+}
+
+.paymentplanfontdiv {
+	position: relative;
+	height: 3vmax;
+	width: 100%;
+	color: #0d2e4e;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vmax;
+	margin-top: 3vw;
+	margin-bottom: 3vw;
+	font-family: Taviraj-Regular;
+}
+
+.containingdiv {
+	 position: relative;height: 100%;margin-bottom: 2vw
+	 }
+
+
+.planrealdiv {
+	position: relative;
+	margin: auto;
+	height: 12vmax;
+	width: 14vmax;
+	background-color: white;
+	margin-top: 1.5vmax;
+	border :solid .1px #b9bbb9;
+
+}
+
+.savingdiv {
+	position: relative;
+	height: 3vmax;
+	width: 14vmax;
+	margin-top: 2vmax;
+	color: #0d2e4e;
+	font-weight: bold;
+	font-size: 1.8vmax;
+}
+
+.planupperlowersection {
+	position: relative;
+	height: 33%;
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-size: 1.3vmax;
+	padding-top: 1vmax
+}
+
+.planmiddlesection {
+	position: relative;
+	height: 34%;
+	width: 100%;
+	border :solid .1px #b9bbb9;
+	text-align: center;
+	padding-top: .25vmax;
+	color: #0d2e4e;
+	font-weight: bold;
+	font-size: 2.5vmax
+}
+
+
+.planreflectiondiv {
+	position: relative;
+	height: 30vw;
+	width: 85%;
+	margin-top: 3vw;
+}
+
+.leftreflection {
+	position: relative;
+	height: 100%;
+}
+
+
+.submitbuttondiv {
+	position: relative;
+	height: 100%;
+	padding-top: 20%
+}
+
+.operationdiv {
+	position: relative;
+	height: 20vmax;
+	width: 30vmax;
+	margin-top: 4vw;
+}
+
+.businessplanbtn {
+	position: relative;
+	height: 3vmax;
+	width: 10vmax;
+	background-color:#223c88;
+	margin: auto;
+	color: white;
+	font-weight: bold;
+	font-size: 1.2vmax;
+}
+
+
+
+.operationmostupper {
+	position: relative;
+	height: 20%;
+	width: 100%;
+	padding-top: .25vmax;
+}
+
+.operationlowerupper {
+	position: relative;
+	height: 25%;
+}
+
+.operationupperlower {
+	position: relative;
+	height: 25%;
+}
+
+.operationmostlower {
+	position: relative;
+	height: 30%;
+}
+
+.totaldiv {
+	position: relative;
+	height: 2.5vmax;
+	width: 90%;
+	float: left;
+	border :solid 2px black;
+	border-color: black transparent black transparent;
+}
+
+.operationleft {
+	position: relative;
+	height: 100%;
+	width: 75%;
+	background-color: #c2c2c2;
+	float: left;
+	padding-top: 1vmax;
+	text-align: left;
+	padding-left: 1vw
+}
+
+.operationmiddle {
+	position: relative;
+	height: 100%;
+	width: 5%;
+	background-color: #f4f4f4;
+	float: left;
+	font-size: 1.5vmax;
+	color: black;
+	text-align: center;
+	padding-top: 1vmax
+}
+
+.operationmiddle2 {
+	position: relative;
+	height: 100%;
+	width: 5%;
+	background-color: #f4f4f4;
+	float: left;
+	font-size: 1.5vmax;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	padding-top: 1vmax
+}
+
+.operationright {
+	position: relative;
+	height: 100%;
+	width: 20%;
+	background-color: #f4f4f4;
+	float: left
+}
+
+.operationbigfont {
+	font-size: 1.5vmax;
+}
+
+.operationsmallfont {
+	font-size: .8vmax;
+}
+
+.radioandp {
+	position: relative;
+	height: 2vmax;
+	width: auto;
+}
+
+.radiodiv {
+	position: relative;
+	float: left;
+	height: 100%;
+	width: 8%;
+	line-height: 12%;
+
+}
+
+.bigfontdiv {
+	position: relative;
+	float: left;
+	height: 100%;
+	width: 88%;
+}
+
+.reflectionradbtn {
+	height: 2vw;
+	width: 2vw;
+}
+
+.smallfontdiv {
+	position: relative;
+	height: 1vmax;
+	width: 100%;
+	font-size: .8vmax;
+	padding-left: 2vmax;
+}
+
+.totalfont {
+	font-size: 1.2vmax;
+	font-weight: bold;
+	float: left;
+	margin-right: .5vw
+}
+
+.nonrefundablefont {
+	position: relative;
+	font-size: .8vw;
+	float: left;
+	margin-top: .5vw
+}
+
+.textfieldstyle {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	font-size: 1.6vmax;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.textfieldstyle {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	font-size: 1.6vmax;
+	font-weight: bold;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.mainmessagebody {
+	position: relative;
+	height: 10vw;
+	width: 85%;
+	margin: auto;
+	margin-top: 4vmax;
+}
+
+
+.upperfontdiv {
+	position: relative;
+	height: 60%;
+	width: 100%;
+	font-size: 2vw;
+	line-height: 6vw;
+	font-family: Taviraj-Regular;
+}
+
+.chekimagediv {
+	position: relative;
+	height: 6vw;
+	width: 6vw;
+	background-image: url('../files/success.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 2vw;
+    float: left
+}
+
+.lowerfontstyle {
+	position: relative;
+	text-align: center;
+	line-height: 4vw;
+	font-size: 1.5vw;
+}
